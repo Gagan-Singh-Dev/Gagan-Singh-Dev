@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm Gagandeep Singh.
+
 "An AI/ML 🤖 Engineering student from India, training models by day and leveling up life like a speedrun by night."
 Passionate about coding, problem-solving, and building cool projects. I turn ideas (and caffeine ☕) into working code, tackle tricky problems, and love pushing the limits of what tech can do 🤖. When I’m not debugging or building projects, you’ll find me experimenting with AI/ML, learning new frameworks, or just exploring out over clever solutions. I believe in building things that matter, having fun while doing it, and constantly leveling up my skills 🚀.  
 
