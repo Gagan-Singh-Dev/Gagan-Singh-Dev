@@ -11,7 +11,7 @@ Passionate about coding, problem-solving, and building cool projects. I turn ide
 ## 🛠️ Tools & Tech
 - **Languages:** Python⚡, SQL🗄️
 - **Databases:** MySQL ✨ 
-- **Other:** Git, GitHub, VS Code
+- **Other:** Git, GitHub
 
 ## 🎉 Fun Facts
 - Can code faster than I drink coffee (sometimes) ☕💨  
