@@ -9,7 +9,8 @@ Passionate about coding, problem-solving, and building cool projects. I turn ide
 - Exploring AI/ML applications and automation  
 
 ## 🛠️ Tools & Tech
-- **Languages:** Python⚡, SQL🗄️
+- **Languages:** Python⚡, SQL🗄️, C 💻
+- **Web:** HTML 🌐, CSS 🎨, JavaScript ⚡
 - **Databases:** MySQL ✨ 
 - **Other:** Git, GitHub
 
